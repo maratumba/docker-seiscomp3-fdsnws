@@ -1,0 +1,25 @@
+# OS generated files #
+######################
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea
+
+# Ignore docker drives #
+########################
+/docker_drive/*
+/docker_scripts/*
+/mysql_docker/var/*
+/mysqldocker/var
+/mysql_sources/*
+/backup
+/apache2
+
+# Config files #
+################
+**/config.ini
